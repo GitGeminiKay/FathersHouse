@@ -1,0 +1,6 @@
+{
+  "name": "Fathers House Church",
+  "description": "Church website and administrative management web portal for real-time member records, donations tracking, and pastoral care connected with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
